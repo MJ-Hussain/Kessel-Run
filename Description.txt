@@ -1,0 +1,13 @@
+===============================================
+		Kessel Run
+===============================================
+Plot a course for a ship through a black hole cluster
+using Monte Carlo
+Given
+-Positions of the masses
+
+Black holes placed anywhere in [-10 10] [-10 10] parsec plane
+Strating postion of ship is uniform randomly generated any where
+on the bottom line
+Starting velocity of the ship is specified by normal distribution
+with a std of pi/4 radian.
